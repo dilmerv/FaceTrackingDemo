@@ -13,3 +13,11 @@ Results from various examples taught in YouTube in the scenes below:
 - (FaceTrackingCartoonDemo.unity) Face Tracking Face Mask Cartoon Demo
 
 <img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/cartoondemo.gif" width="300">
+
+- (FaceTrackingPipeline.unity) Face Tracking demo showing Universal Pipeline Info
+
+Example Post to applying Forward Rendering
+<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/universalrp_post.gif" width="300">
+
+Example Prior to applying Forward Rendering
+<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/universalrp_pre.gif" width="300">
