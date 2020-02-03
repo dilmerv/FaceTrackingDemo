@@ -6,20 +6,11 @@ Watch the AR Video Series at [YouTube](https://www.youtube.com/playlist?list=PLQ
 
 Results from various examples taught in YouTube in the scenes below:
 
-- (FaceTrackingUVDemo.unity) Face Tracking Face Mask UV Demo
-
-<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/uvdemo.gif" width="300">
-
-- (FaceTrackingCartoonDemo.unity) Face Tracking Face Mask Cartoon Demo
-
-<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/cartoondemo.gif" width="300">
-
-- (FaceTrackingPipeline.unity) Face Tracking demo showing Universal Pipeline Info
-
-Example Post to applying Forward Rendering
-
-<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/universalrp_post.gif" width="300">
-
-Example Prior to applying Forward Rendering
-
-<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/universalrp_pre.gif" width="300">
+|Unity Scenes||
+|---|---|
+|FaceTrackingUVDemo.unity|FaceTrackingCartoonDemo.unity|
+|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/uvdemo.gif" width="300">|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/cartoondemo.gif" width="300">
+|FaceTrackingPipeline.unity|FaceTrackingPipeline.unity|
+|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/universalrp_post.gif" width="300">|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/universalrp_pre.gif" width="300">|
+|FaceTrackingAnimated_1.unity|FaceTrackingAnimated_2.unity|
+|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/faceanimated_1.gif" width="300">|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/faceanimated_2.gif" width="300">|
