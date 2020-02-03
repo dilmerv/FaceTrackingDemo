@@ -13,4 +13,4 @@ Results from various examples taught in YouTube in the scenes below:
 |FaceTrackingPipeline.unity|FaceTrackingPipeline.unity|
 |<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/universalrp_post.gif" width="300">|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/universalrp_pre.gif" width="300">|
 |FaceTrackingAnimated_1.unity|FaceTrackingAnimated_2.unity|
-|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/faceanimated_1.gif" width="300">|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/faceanimated_2.gif" width="300">|
+|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/faceanimated_1.gif" width="300">|<img src="https://github.com/dilmerv/FaceTrackingDemo/blob/master/docs/images/faceanimated_2.gif" width="300">|
